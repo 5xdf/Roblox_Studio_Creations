@@ -15,3 +15,7 @@ Yeah, I make some cool stuff on roblox studio, feel free to use. Just give credi
 
 # Thats all.
 # Not going by the rules will lead to a ban from using my assets.
+
+
+
+######**Note this doesnt get updated often
