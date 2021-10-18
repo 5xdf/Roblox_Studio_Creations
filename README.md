@@ -3,7 +3,7 @@ Yeah, I make some cool stuff on roblox studio, feel free to use. Just give credi
 
 ## How to use
 - First of all, you must have Roblox Studio.
-- To test I recommend using the Roblox Player and not the testing ability on Roblox Studio.
+- To test I recommend using testing ability on Roblox Studio.
 - This is basically an introduction to Roblox Studio
 - also this is what i have done with roblox studio
 
