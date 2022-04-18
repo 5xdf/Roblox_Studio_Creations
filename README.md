@@ -18,5 +18,5 @@ Yeah, I make some cool stuff on roblox studio, feel free to use. Just give credi
 ##### The creations usually take around a 1 day to a week.
 ###### Thanks.
  
-# Repository link for creations: https://github.com/itznbur21/StudioCreationModule.git 
+# Repository link for creations: https://github.com/PerplexDemon/StudioCreationModule.git 
 ## Please tell me if the link doesnt work.
