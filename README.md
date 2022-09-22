@@ -8,15 +8,10 @@ Yeah, I make some cool stuff on roblox studio, feel free to use. Just give credi
 - also this is what i have done with roblox studio
 
 ## Copyright
-- If you do not give credit to me, I will flag it as a stolen asset you MUST give credit or you will get your game taken down.
+- Credit not needed, but would be appreciated.
 
 ## Policy
-- Please, PLEASE dont use the assets as-is you need to edit something at least.
-
-### Thats all.
-#### Not going by the rules will lead to a ban from using my assets.
-##### The creations usually take around a 1 day to a week.
-###### Thanks.
+- none
  
 # Repository link for creations: https://perplexdemon.github.io/StudioCreationModule/
 ## Please tell me if the link doesnt work.
